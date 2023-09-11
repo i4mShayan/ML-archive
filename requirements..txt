@@ -1,0 +1,13 @@
+notebook
+tensorflow
+numpy
+pandas
+scikit-learn
+tabulate
+matplotlib
+bokeh
+plotly
+ipywidgets
+gym
+imageio
+pyvirtualdisplay
